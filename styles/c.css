@@ -83,3 +83,40 @@ nav li {
     width: 600px;
     font-size: 40px;
 }
+.productive {
+    margin: 100px;
+    background-color: #4d47ff60;
+    padding: 30px;
+    border-radius: 24px;
+}
+
+.Centered-title {
+    justify-self: center
+}
+
+.num {
+    font-size: 9em;
+    font-weight: bold;
+    color: #4E47FF;
+}
+
+.dsubtitle {
+    font-size: 30px;
+    color: #000000;
+}
+
+.Centered-title {
+    color: #252432;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+
+
+.psec {
+    list-style: none;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+
+}
