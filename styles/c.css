@@ -168,3 +168,35 @@ button:hover {
     background-color: rgb(33, 222, 228);
     box-shadow: 5px 5px 10px rebeccapurple;
 }
+
+.foot {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.flogo {
+    font-size: 10em;
+    color: #4E47FF;
+    margin-bottom: 10px;
+}
+
+.fsubtitle {
+    font-size: 2em;
+    color: #333;
+    
+}
+
+.footer-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 2em;
+}
