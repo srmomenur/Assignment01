@@ -54,3 +54,32 @@ nav li {
     background-color: rgb(33, 222, 228);
     box-shadow: 5px 5px 10px rebeccapurple;
 }
+.btn-primary3 {
+    color: rgb(250, 249, 249);
+    background-color: #4E47FF;
+    border-radius: 10px;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 20px 50px 20px;
+    margin-bottom: 200px;
+}
+.btn-primary3:hover {
+    background-color: rgb(33, 222, 228);
+    box-shadow: 5px 5px 10px rebeccapurple;
+}
+
+.action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px 100px;
+}
+
+.right img {
+    border-radius: 50px;
+}
+
+.subtitle {
+    width: 600px;
+    font-size: 40px;
+}
