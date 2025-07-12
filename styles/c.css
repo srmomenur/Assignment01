@@ -120,3 +120,51 @@ nav li {
     justify-content: space-around;
 
 }
+.getintouch {
+    padding: 100px 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px;
+}
+
+.touch h1 {
+    font-size: 10em;
+    color: #333;
+}
+
+.cform form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+
+label {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+input,
+textarea {
+    padding: 30px;
+    width: 450px;
+    font-size: 1.5em;
+    border-radius: 10px;
+
+
+}
+
+button {
+    color: rgb(250, 249, 249);
+    background-color: #4E47FF;
+    border-radius: 10px;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px 100px 10px;
+}
+
+button:hover {
+    background-color: rgb(33, 222, 228);
+    box-shadow: 5px 5px 10px rebeccapurple;
+}
